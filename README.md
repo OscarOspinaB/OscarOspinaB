@@ -29,6 +29,7 @@ dinámicos.
 
 👉 **[Ver Código y detalles del Proyecto Aquí]( )** | **[Ver Dashboard Interactivo]()**
 
+[Volver al índice](#-índice-de-proyectos)
 
 ## 📊 02 Proyecto: Dashboard de Mesa de Ayuda TI
 ---
@@ -55,3 +56,4 @@ Optimizar la toma de decisiones del área de TI mediante un tablero que monitore
 ### Vista Previa al Dashboard
 <img width="898" height="258" alt="vista previa TI" src="https://github.com/user-attachments/assets/e9104f9f-ef83-4223-aa7d-5e42de2ef0fd" />
 
+[Volver al índice](#-índice-de-proyectos)
