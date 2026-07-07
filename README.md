@@ -4,7 +4,7 @@ Economista y Analista de Datos enfocado en la toma de decisiones organizacionale
 
 ## 📊 Proyecto: Análisis de Datos (Estud-IA) 
 ---
-**Descripción del proyecto:** Breve explicación de qué problema resuelve (ej: *Análisis del rendimiento académico y deserción estudiantil usando Inteligencia Artificial*).
+**Descripción del proyecto:** Pendiente por agregar 
 
 * **Objetivo:** (Pendiente por agregar).
 * **Tecnologías utilizadas:** Python, Power BI.
